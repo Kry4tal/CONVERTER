@@ -1,2 +1,2 @@
 # CONVERTER
-via LJason
+## Removed
